@@ -27,7 +27,6 @@ The dataset used for this project is the "diagnostic.csv" file. This dataset con
 - `93% using Naive Bayes.ipynb`: Jupyter Notebook containing the code for achieving 93% accuracy using the Naive Bayes classifier.
 - `97.6 % Feature selection Naive Bayes.ipynb`: Jupyter Notebook containing the code for achieving 97.6% accuracy using feature selection and the Naive Bayes classifier.
 - `LDA.ipynb`: Jupyter Notebook with implementation details pending for Linear Discriminant Analysis (LDA).
-- `Untitled.ipynb`: Jupyter Notebook with implementation details pending.
 - `diagnostic.csv`: The dataset file containing the breast cancer diagnostic data.
 
 ## How to Use
@@ -37,7 +36,6 @@ The dataset used for this project is the "diagnostic.csv" file. This dataset con
 3. Open the desired notebook file using Jupyter Notebook.
 4. Run the code cells sequentially to observe the implementation and results.
 
-Feel free to explore, experiment, and contribute to this repository to further improve the breast cancer diagnostic prediction.
 
 ## Credits
 
